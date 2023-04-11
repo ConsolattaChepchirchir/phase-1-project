@@ -3,7 +3,7 @@
 This project allows a user to search a persons' name from an api of random users, in our case we have acquired our data from: https://randomuser.me/api?results=20. 
 
 # Sorting names by the letters
-The project i have done allows us to search a name in a set of api with users. If a user keys in the first letters our project displays users with the letters in our file an example is if we search the letters 'su' it displays all the names with su in our users.
+The project i have done allows us to search a name in a set of api with users. If a user keys in the first letters our project displays users with the letters in our file an example is if we search the letters 'su' it displays all the names with su in our users. The user details changes randomly upon refreshing the page.
 # displays the user
 ![image on the random users from our api](assets/Screenshot%20from%202023-04-11%2010-23-54.png)
 
